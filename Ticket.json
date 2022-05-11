@@ -1,0 +1,16 @@
+[
+    {
+        "nserie": "",
+        "id_concerto": "",
+        "nome": "",
+        "cognome": "",
+        "aquirente": "",
+        "posto": {
+            "area": "",
+            "numero": "",
+            "fila": ""
+        },
+        "prezzo": "",
+        "data": "timestamp"
+    }
+]

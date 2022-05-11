@@ -1,0 +1,22 @@
+<!-- # Traccia dell'esercizio:
+# Applicazione per la compravendita di biglietti di concerti.
+
+# Cercare un concerto per: (find)
+# - artista che partecipa al concerto (festival / band di apertura)
+# - intervallo di date all'interno del quale ci deve essere il concerto
+# - vicinanza (entro 7km da Milano)
+# - il sistema non permette l'acquisto dei concerti sold-out!
+# - ...e comprarlo! => viene emesso un biglietto! (insert)
+
+# Biglietto
+# - numero serie univoco.
+# - può identificare la zona della struttura
+# - info sull'acquirente, info sul concerto
+
+# Chi mette in vendita i biglietti (INSERT...)
+# - dove si tiene il concerto
+# - il numero di posti per area della struttura
+# 	- zona prato, zona 1° anello, zona vip
+# 	- galleria, platea...
+# 	- posto unico
+# - il tour di cui il concerto fa parte -->

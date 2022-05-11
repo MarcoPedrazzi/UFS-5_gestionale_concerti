@@ -1,0 +1,380 @@
+[
+    {
+        "titolo": "",
+        "artisti": [
+            "bresh"
+        ],
+        "tour": "oro blu",
+        "data": "ISODate('2022-04-29T18:00:00')",
+        "luogo": {
+            "nome": "arena village-alma beach studios",
+            "via": "viale lungomare del golfo",
+            "cap":"09045",
+            "citta":"quartu sant'elena",
+            "posizione": {
+               "type": "Point",
+               "coordinates": [39.22416047813858, 9.19578980962412]
+           }
+        },
+        "posti": [
+            {
+                "area": "prato gold",
+                "n_postiTotali": 150,
+                "n_postiRimasti": 150,
+                "prezzo": 2760
+            },
+            {
+                "area": "regular-posto unico",
+                "n_postiTotali": 150,
+                "n_postiRimasti": 150,
+                "prezzo": 2070
+            }
+        ]
+    },
+    {
+        "titolo": "",
+        "artisti": [
+            "vasco"
+        ],
+        "tour": "vasco live",
+        "data": "ISODate('2022-05-20T21:00:00')",
+        "luogo": {
+            "nome": "trentino music arena",
+            "via": "via di s. vincenzo",
+            "cap":"38123",
+            "citta":"Trento",
+            "posizione": {
+                "type": "Point",
+                "coordinates": [46.02705501167907, 11.12953051146369]
+            }
+            
+        },
+        "posti": [
+            {
+                "area": "pit 1",
+                "n_postiTotali": 200,
+                "n_postiRimasti": 200,
+                "prezzo": 6175
+            },
+            {
+                "area": "pit 2",
+                "n_postiTotali": 200,
+                "n_postiRimasti": 200,
+                "prezzo": 5660
+            },
+            {
+                "area": "pit 3",
+                "n_postiTotali": 200,
+                "n_postiRimasti": 200,
+                "prezzo": 5175
+            }
+        ]
+    },
+    {
+        "titolo": "",
+        "artisti": [
+            "maneskin"
+        ],
+        "tour": "loud kids tour",
+        "data": "ISODate('2023-02-23T21:00:00')",
+        "luogo": {
+            "nome": "vitrifrigo arena",
+            "via": "via gagarin",
+            "cap":"61122",
+            "citta":"pesaro",
+            "posizione": {
+                "type": "Point",
+                "coordinates": [43.90340309709168, 12.867140261110873]
+            }
+        },
+        "posti": [
+            {
+                "area": "parterre in piedi",
+                "n_postiTotali": 1000,
+                "n_postiRimasti": 1000,
+                "prezzo": 5175
+            },
+            {
+                "area": "tribuna telescopica numerata",
+                "n_postiTotali": 1150,
+                "n_postiRimasti": 1150,
+                "prezzo": 5750
+            },
+            {
+                "area": "tribuna n",
+                "n_postiTotali": 1300,
+                "n_postiRimasti": 1300,
+                "prezzo": 5175
+            },
+            {
+                "area": "tribuna l",
+                "n_postiTotali": 1300,
+                "n_postiRimasti": 1300,
+                "prezzo": 5175
+            },
+            {
+                "area": "gradinata q",
+                "n_postiTotali": 1000,
+                "n_postiRimasti": 1000,
+                "prezzo": 4600
+            },
+            {
+                "area": "gradinata p",
+                "n_postiTotali": 1000,
+                "n_postiRimasti": 1000,
+                "prezzo": 4600
+            },
+            {
+                "area": "tribuna k",
+                "n_postiTotali": 720,
+                "n_postiRimasti": 720,
+                "prezzo": 4025
+            }
+        ]
+    },
+    {
+        "titolo": "",
+        "artisti": [
+            "sabaton",
+            "epica"
+        ],
+        "tour": "the tour to end all tours",
+        "data": "ISODate('2022-03-15T18:00:00')",
+        "luogo": {
+            "nome": "stadio san siro",
+            "via": "piazzale angelo moratti",
+            "cap":"20151",
+            "citta":"milano",
+            "posizione": {
+                "type": "Point",
+                "coordinates": [45.47819750254827, 9.123965380681542]
+            }
+        },
+        "posti": [
+            {
+                "area": "settore rosso 1",
+                "n_postiTotali": 2500,
+                "n_postiRimasti": 2500,
+                "prezzo": 6300
+            },
+            {
+                "area": "settore rosso 2",
+                "n_postiTotali": 3000,
+                "n_postiRimasti": 3000,
+                "prezzo": 5450
+            },
+            {
+                "area": "settore verde 1",
+                "n_postiTotali": 1700,
+                "n_postiRimasti": 1700,
+                "prezzo": 6100
+            },
+            {
+                "area": "settore verde 2",
+                "n_postiTotali": 2000,
+                "n_postiRimasti": 2000,
+                "prezzo": 5500
+            },
+            {
+                "area": "settore verde 3",
+                "n_postiTotali": 2000,
+                "n_postiRimasti": 2000,
+                "prezzo": 4975
+            },
+            {
+                "area": "settore giallo 1",
+                "n_postiTotali": 2500,
+                "n_postiRimasti": 2500,
+                "prezzo": 6300
+            },
+            {
+                "area": "settore giallo 2",
+                "n_postiTotali": 3000,
+                "n_postiRimasti": 3000,
+                "prezzo": 5450
+            },
+            {
+                "area": "parterre",
+                "n_postiTotali": 1000,
+                "n_postiRimasti": 1000,
+                "prezzo": 6300
+            }
+        ]
+    },
+    {
+        "titolo": "isola rock 2022",
+        "artisti": [
+            "temperance",
+            "volturian",
+            "badbones",
+            "spitfire",
+            "kalidia",
+            "arthemis"
+        ],
+        "tour": "",
+        "data": "ISODate('2022-05-19T15:00:00')",
+        "luogo": {
+            "nome": "palariso",
+            "via": "via vittorio veneto, 4",
+            "cap":"37063",
+            "citta":"Isola della Scala",
+            "posizione": {
+                "type": "Point",
+                "coordinates": [45.274199469439104, 10.999891200532838]
+            }
+        },
+        "posti": [
+            {
+                "area": "posto unico",
+                "n_postiTotali": 3000,
+                "n_postiRimasti": 3000,
+                "prezzo": 0
+            }
+        ]
+    },
+    {
+        "titolo": "winterfest 2022",
+        "artisti": [
+            "wind rose"
+        ],
+        "tour": "",
+        "data": "ISODate('2022-03-26T19:00:00Z')",
+        "luogo": {
+            "nome": "district 272 club",
+            "via": "via padova, 272",
+            "cap":"20132",
+            "citta":"milano",
+            "posizione": {
+                "type": "Point",
+                "coordinates": [45.5080713749327, 9.245382562039241]
+            }
+        },
+        "posti": [
+            {
+                "area": "area 1",
+                "n_postiTotali": 1500,
+                "n_postiRimasti": 1500,
+                "prezzo": 4500
+            },
+            {
+                "area": "Area 2",
+                "n_postiTotali": 1700,
+                "n_postiRimasti": 1700,
+                "prezzo": 4750
+            }
+        ]
+    },
+    {
+        "titolo": "",
+        "artisti": [
+            "alan walker"
+        ],
+        "tour": "world of walker",
+        "data": "ISODate('2021-11-25T18:00:00')",
+        "luogo": {
+            "nome": "ippodromo san siro",
+            "via": "piazzale dello sport, 16",
+            "cap":"20151",
+            "citta":"milano",
+            "posizione": {
+                "type": "Point",
+                "coordinates": [45.48307873172699, 9.13053663872388]
+            }
+        },
+        "posti": [
+            {
+                "area": "centrale",
+                "n_postiTotali": 6000,
+                "n_postiRimasti": 6000,
+                "prezzo": 5200
+            },
+            {
+                "area": "sotto palco",
+                "n_postiTotali": 2000,
+                "n_postiRimasti": 2000,
+                "prezzo": 5900
+            },
+            {
+                "area": "lontano da palco",
+                "n_postiTotali": 2000,
+                "n_postiRimasti": 2000,
+                "prezzo": 4600
+            }
+        ]
+    },
+    {
+        "titolo": "la prima estate",
+        "artisti": [
+            "the national",
+            "courtney barnett",
+            "giorgio poi",
+            "el mato a un policia motorizado"
+        ],
+        "tour": "",
+        "data": "ISODate('2022-06-21T18:30:00')",
+        "luogo": {
+            "nome": "parco bussoladomani",
+            "via": "Viale J. F. Kennedy",
+            "cap":"55041",
+            "citta":"Lido di Camaiore",
+            "posizione": {
+                "type": "Point",
+                "coordinates": [43.90832142471877, 10.21667186111364]
+            }
+        },
+        "posti": [
+            {
+                "area": "",
+                "n_postiTotali": 200,
+                "n_postiRimasti": 200,
+                "prezzo": "€ 61,75"
+            },
+            {
+                "area": "",
+                "n_postiTotali": 200,
+                "n_postiRimasti": 200,
+                "prezzo": "€ 56,60"
+            },
+            {
+                "area": "",
+                "n_postiTotali": 200,
+                "n_postiRimasti": 200,
+                "prezzo": 0
+            }
+        ]
+    },
+    {
+        "titolo": "kappa futurfestival 2022",
+        "artisti": [
+            "amelia lens",
+            "andrea olivia",
+            "boris brejcha",
+            "four tet",
+            "nyege nyege",
+            "peggy gou",
+            "reinier zonneveld live",
+            "syreeta",
+            "wade"
+        ],
+        "tour": "",
+        "data": "ISODate('2022-07-01T14:00:00')",
+        "luogo": {
+            "nome": "parco dora",
+            "via": "",
+            "cap": "10149",
+            "citta": "torino",
+            "posizione": {
+                "type": "Point",
+                "coordinates": [45.090346, 7.665842]
+            }
+        },
+        "posti": [
+            {
+                "area": "parterre",
+                "n_postiTotali": 15000,
+                "n_postiRimasti": 15000,
+                "prezzo": 5000
+            }
+        ]
+    }
+]
