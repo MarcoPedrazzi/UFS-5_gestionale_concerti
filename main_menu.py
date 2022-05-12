@@ -32,7 +32,7 @@ Cosa vuoi fare?
                         while True:
                             new_concerto={}
                             
-                        gestione_concerti.setConcerto()
+                        
                     elif scelta == 2:
                         gestione_concerti.nearConcerto()
                     elif scelta == 3:
